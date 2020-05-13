@@ -1,0 +1,2 @@
+# MaxElement-in-an-Array-Recursion
+Maximum Element in Array     Write a program to find the maximum element in an array using recursion.     Input and Output Format:     Input consists of n+1 integers.  Refer sample input and output for formatting specifications.  All text in bold corresponds to input and the rest corresponds to output.     Sample Input and Output:  Enter the size of the array  6  Enter 6 elements of an array  2  5  1  7  4  2  Maximum element in the array is 7   
